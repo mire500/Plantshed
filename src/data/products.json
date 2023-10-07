@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "../../snake-plant.jpg",
+        "Product": "Snake Plant",
+        "Origin": "Western Africa",
+        "Price": 12.00
+    },
+    {
+        "id": 2,
+        "imgUrl": "../../alo.png",
+        "Product": "Alocasia portodora",
+        "Origin": "Southeast Asia",
+        "Price": 35.00
+    },
+    {
+        "id": 3,
+        "imgUrl": "../../nick.jpeg",
+        "Product": "Strelitzia Nicolai",
+        "Origin": "Southern Africa",
+        "Price": 60.00
+    }
+]
